@@ -1,5 +1,5 @@
 # mapping app of School
-this is a mapping application for Senior Hight School in Surabaya, Indonesia (for administrator) <br>
+this is a mapping application for Senior Hight School in Surabaya, Indonesia (web base for administrator) <br>
 This repo without node_modules and vendor folder (we can add manually).<br>
 The Database file name is [db.sql](https://github.com/indracahyae/mappingSMK_Web/blob/master/db.sql)
 
