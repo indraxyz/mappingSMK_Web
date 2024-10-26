@@ -3,6 +3,9 @@ this is a mapping application for Senior High School in Surabaya, Indonesia (web
 This repo without node_modules and vendor folder (we can add manually).<br>
 The Database file name is [db.sql](https://github.com/indracahyae/mappingSMK_Web/blob/master/db.sql)
 
+## Features
+look at the screenshot below
+
 ##  Used Technology
 * [MySql](https://www.mysql.com/) database
 * [Laravel 5.4](https://laravel.com/docs/5.4) (PHP Framework)
